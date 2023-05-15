@@ -1,6 +1,6 @@
 # link-shrinker
 
-This is a URL shortener app built using React and Tailwind CSS.
+This is a URL shortener app built using React and Tailwind CSS. Demo here: https://startling-custard-69eead.netlify.app
 
 Features
 1. Shorten long URLs to a shorter, more manageable form.
@@ -26,3 +26,5 @@ Click the "Copy" button to copy the shortened URL to the clipboard.
 
 API
 The shrtco.de API was used to generate a short link. For more info see https://shrtco.de/docs
+
+
